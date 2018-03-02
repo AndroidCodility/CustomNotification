@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Custom Notification</string>
+    <string name="notification">Notification</string>
+    <string name="applicant_name">Android Codility</string>
+    <string name="custom_notification">Custom Notification</string>
+    <string name="notification_msg">This is sample for simple notification.</string>
+</resources>
